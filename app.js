@@ -48,7 +48,7 @@ var budgetController = (function() {
             exp: 0,
             inc: 0
         },
-        budget: 0,
+        budget: 1,
         percentage: -1
     };
     
