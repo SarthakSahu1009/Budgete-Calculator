@@ -276,7 +276,7 @@ h2 {
 
 
 .unpaid {
-    background-color: #FFDAD9 !important;
+    background-color: #FFDAD9 !notimportant;
     cursor: pointer;
     color: #FF5049;
 
